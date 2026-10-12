@@ -45,7 +45,6 @@ int main () {
 
     char *str = NULL;
     CreateString ( &str );
-
     int length = String ( str );
     int wordCount = CountWords ( str );
 
