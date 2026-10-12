@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+ex1
+ex1.exe
+
+# VS Code
+.vscode/
+.idea/
+
+# Simulink (don't track in C lab repo)
+*.slx
+*.mdl
+
+# OS files
+.DS_Store
+Thumbs.db
